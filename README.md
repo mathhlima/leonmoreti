@@ -4,7 +4,7 @@
 
 - 🔭 Meu nome é Leon Moreti e eu tenho 25 anos. Atualmente estou buscando uma vaga de Estágio.
 - 🌱 Detenho o conhecimento das seguintes tecnologias: HTML, CSS, Javascript e JQuery.
-- 👯 Converso sobre qualquer coisa, mas oque me chama atenção mesmo é estar em forums ou grupos falando sobre tecnologia.
+- 👯 Converso sobre qualquer coisa, mas o que me chama atenção mesmo é estar em forums ou grupos falando sobre tecnologia.
 - 📫 Pode falar comigo através do meu e-mail pessoal: leonmoreti7@gmail.com ou pelo meu LinkedIn, o link está logo abaixo.
 ##
 
